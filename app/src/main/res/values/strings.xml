@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuperHeroes</string>
+    <string name="base_url">https://superheroapi.com/api/10156112965520834/</string>
+</resources>
